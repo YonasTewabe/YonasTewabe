@@ -1,15 +1,7 @@
 <h1>Hi there 👋, I'm Yonas Tewabe</h1>
 <h3>A passionate junior fullstack developer</h3>
 
-<p align="left">
-<img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/yonas-tewabe-bb4950295/?lipi=urn%3ali%3apage%3aprofile_common_profile_index%3b9240f0a5-d86d-477b-9ba7-c466d657203f"
-      height="30"
-      width="40"
-  /></a>
-</p>
+<br /> <br /> <br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
