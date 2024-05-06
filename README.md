@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Yonas Tewabe</h1>
 <h3>A passionate junior fullstack developer</h3>
 
-<br /> <br /> <br />
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -115,7 +115,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[Telegram<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/+251919370544)
+[Telegram<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/YonasTewabe)
 
 &nbsp;&nbsp;
 [LinkedIn<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://linkedin.com/in/yonas-tewabe-bb4950295)
