@@ -1,7 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Yonas Tewabe</h1>
-<h3 align="center">A passionate junior fullstack developer</h3>
+<h1>Hi there 👋, I'm Yonas Tewabe</h1>
+<h3>A passionate junior fullstack developer</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/yonas-tewabe-bb4950295/?lipi=urn%3ali%3apage%3aprofile_common_profile_index%3b9240f0a5-d86d-477b-9ba7-c466d657203f"
@@ -127,7 +126,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[Telegram<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/Brook_ty)
+[Telegram<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/+251919370544)
 
 
-<a href = "mailto: brooktewabe00@gmail.com" ><img align="left"  alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/220px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: brooktewabe00@gmail.com">Email</a>
+<a href = "mailto: brooktewabe00@gmail.com" ><img align="left"  alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/220px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: yonastewabe21@gmail.com">Email</a>
