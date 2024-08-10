@@ -23,6 +23,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonasTewabe&hide_progress=true)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonastewabe&show_icons=true&locale=en&layout=compact" alt="yonastewabe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonastewabe&show_icons=true&locale=en" alt="yonastewabe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonastewabe&" alt="yonastewabe" /></p>
+
 ### Connect with me:
 
 &nbsp;&nbsp;
@@ -32,4 +38,4 @@
 [LinkedIn<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://linkedin.com/in/yonastewabe)
 
 
-<a href = "mailto: brooktewabe00@gmail.com" ><img align="left"  alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/220px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: yonastewabe21@gmail.com">Email</a>
+<a href = "mailto: yonastewabe21@gmail.com" ><img align="left"  alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/220px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: yonastewabe21@gmail.com">Email</a>
