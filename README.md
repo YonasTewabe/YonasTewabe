@@ -21,11 +21,11 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonastewabe&show_icons=true&locale=en&layout=compact" alt="yonastewabe" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonastewabe&show_icons=true&locale=en&layout=compact" alt="yonastewabe" style="display: inline-block; width: 45%;"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonastewabe&" alt="yonastewabe" style="display: inline-block; width: 45%;"/>
+</p>
 
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonastewabe&" alt="yonastewabe" /></p>
 
 ### Connect with me:
 
