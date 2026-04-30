@@ -35,13 +35,11 @@
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Developer%20first%20workflows%20that%20increase%20delivery%20speed-111827?style=for-the-badge&labelColor=111827" alt="Developer-first workflows that increase delivery speed" />
   <br />
   <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Reliable%20DevOps%20pipelines%20for%20safer%20production%20releases-111827?style=for-the-badge&labelColor=2CB67D" alt="Reliable DevOps pipelines for safer production releases" />
-
-  <p>
-  <strong>Have an idea or platform to launch? Let's connect and ship something excellent.</strong>
-</p>
-<div align="center">
+    <br />
+  <img src="https://img.shields.io/badge/HAVE%20AN%20IDEA%20OR%20PLATFORM%20TO%20LAUNCH?-7F5AF0?style=for-the-badge" alt="Have an idea or platform to launch?" />
+    <br />
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Open%20to%20collaborating%20on%20interesting%20projects-111827?style=for-the-badge&labelColor=7F5AF0" alt="Open to collaborating on interesting projects" />
-</div>
+
 </div>
 
 <p align="center">
