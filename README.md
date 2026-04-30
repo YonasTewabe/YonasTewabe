@@ -1,88 +1,75 @@
-# Hi there, I'm Yonas Tewabe 👋
+# Yonas Tewabe
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Fullstack+Developer;DevOps+Engineer;Building+Scalable+Products+with+Elegant+Systems" alt="Typing intro" />
+</div>
 
 <div align="center">
 
-### A Fullstack Developer and DevOps Engineer
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YonasTewabe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonastewabe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastewabe21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#featured-work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonastewabe)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YonasTewabe)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastewabe21@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+### About
 
-I'm a fullstack developer who loves building modern web applications with clean, efficient code. I enjoy working across the entire stack, from crafting responsive user interfaces to designing robust backend systems and databases.
+I design and ship modern web applications with a strong focus on performance, reliability, and clean architecture.  
+My work bridges product engineering and DevOps, from polished frontend experiences to resilient backend platforms and delivery pipelines.
 
-- 🔭 Currently working on building scalable web applications
-- 🌱 Continuously learning new technologies and best practices
-- 💡 Passionate about solving complex problems with elegant solutions
-- 🤝 Open to collaborating on interesting projects
-- 📫 Reach out to me for freelance opportunities or tech discussions
-
----
-
-## Tech Stack
-
-### Frontend
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="TailwindCSS" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
-### Backend
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="NestJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
-### Database & Tools
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
-
-<br />
-<br />
+- Building multi-tenant, multi-service systems end-to-end
+- Turning complex business problems into simple developer experiences
+- Improving deployment speed, observability, and runtime stability
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonastewabe&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonastewabe&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonastewabe&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## Let's Connect
-
-I'm always interested in connecting with fellow developers, potential collaborators, or anyone interested in tech. Feel free to reach out through any of the platforms below:
+### Core Stack
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YonasTewabe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonastewabe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastewabe21@gmail.com)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
+
+
+### GitHub Insights
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yonastewabe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yonastewabe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonastewabe&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yonastewabe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+### Contact
+
+Open to freelance work, product collaborations, and engineering conversations.
+
+- LinkedIn: [linkedin.com/in/yonastewabe](https://linkedin.com/in/yonastewabe)
+- Telegram: [@YonasTewabe](https://t.me/YonasTewabe)
+- Email: [yonastewabe21@gmail.com](mailto:yonastewabe21@gmail.com)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yonastewabe&label=Profile+Views&style=flat-square&color=6A5ACD" alt="Profile views" />
 </div>
