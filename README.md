@@ -15,9 +15,9 @@
 ### About
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Product%20Engineering-7F5AF0?style=for-the-badge" alt="Product engineering focus" />
-  <img src="https://img.shields.io/badge/Cloud%20Native%20DevOps-00C2FF?style=for-the-badge" alt="Cloud native DevOps focus" />
-  <img src="https://img.shields.io/badge/Scalable%20Architecture-2CB67D?style=for-the-badge" alt="Scalable architecture focus" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-FF8A00?style=for-the-badge" alt="Product engineering focus" />
+  <img src="https://img.shields.io/badge/Cloud%20Native%20DevOps-2563EB?style=for-the-badge" alt="Cloud native DevOps focus" />
+  <img src="https://img.shields.io/badge/Scalable%20Architecture-14B8A6?style=for-the-badge" alt="Scalable architecture focus" />
 </div>
 
 <div align="center">
