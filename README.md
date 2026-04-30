@@ -6,17 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Fullstack+Developer;DevOps+Engineer;Crafting+Fullstack+Experiences+with+Production-Ready+DevOps" alt="Typing intro" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/yonastewabe">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/YonasTewabe">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:yonastewabe21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<div align="center"><a href="https://linkedin.com/in/yonastewabe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://t.me/YonasTewabe"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a><a href="mailto:yonastewabe21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284068-e6e8b8fd-ffde-4c53-8f73-4f9f39f3f2db.gif" width="900" alt="Animated divider" />
@@ -30,20 +20,27 @@
   <img src="https://img.shields.io/badge/Scalable%20Architecture-2CB67D?style=for-the-badge" alt="Scalable architecture focus" />
 </div>
 
-<div>
-  <h4>Building products that are elegant, scalable, and production-ready.</h4>
+<div align="center">
   <p>
     I combine fullstack development and DevOps to deliver fast, reliable systems from concept to deployment.
     My focus is clear architecture, smooth developer experience, and resilient cloud operations.
   </p>
 </div>
 
-<div>
+<div align="center">
+  <img src="https://img.shields.io/badge/WHAT%20I%20PRIORITIZE-7F5AF0?style=for-the-badge" alt="What I prioritize" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Open%20to%20collaborating%20on%20interesting%20projects-111827?style=for-the-badge&labelColor=7F5AF0" alt="Open to collaborating on interesting projects" />
   <br />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Developer-first%20workflows%20that%20increase%20delivery%20speed-111827?style=for-the-badge&labelColor=00C2FF" alt="Developer-first workflows that increase delivery speed" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Developer%20first%20workflows%20that%20increase%20delivery%20speed-111827?style=for-the-badge&labelColor=111827" alt="Developer-first workflows that increase delivery speed" />
   <br />
   <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Reliable%20DevOps%20pipelines%20for%20safer%20production%20releases-111827?style=for-the-badge&labelColor=2CB67D" alt="Reliable DevOps pipelines for safer production releases" />
+
+  <p>
+  <strong>Open to freelance, collaboration, and product builds</strong> - have an idea or platform to launch? Let's connect and ship something excellent.
+</p>
 </div>
 
 <p align="center">
@@ -100,28 +97,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284150-45ca4a2c-e2af-4f8f-9658-0e6fcb1f6c64.gif" width="900" alt="Animated divider" />
 </p>
 
-### Contact
-
-<p align="center">
-  <strong>Open to freelance, collaboration, and product builds</strong> - have an idea or platform to launch? Let's connect and ship something excellent.
-</p>
-
 <div align="center">
-  <a href="https://linkedin.com/in/yonastewabe">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/YonasTewabe">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:yonastewabe21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yonastewabe&label=Profile+Views&style=flat-square&color=6A5ACD" alt="Profile views" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yonastewabe&label=Profile+Views&style=flat-square&color=6A5ACD" alt="Profile views" />
 </div>
