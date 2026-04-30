@@ -1,16 +1,12 @@
-# Yonas Tewabe
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=YO%20NAS%20TE%20WA%20BE&fontAlign=50&fontAlignY=35&color=0:7F5AF0,50:2CB67D,100:00C2FF&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=55&animation=twinkling" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=YONAS%20TEWABE&fontAlign=50&fontAlignY=35&color=0:7F5AF0,50:2CB67D,100:00C2FF&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=55&animation=twinkling" alt="Header banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Fullstack+Developer;DevOps+Engineer;Building+Scalable+Products+with+Elegant+Systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Fullstack+Developer;DevOps+Engineer;Crafting+Fullstack+Experiences+with+Production-Ready+DevOps" alt="Typing intro" />
 </div>
 
 <div align="center">
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonastewabe)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YonasTewabe)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastewabe21@gmail.com)
@@ -23,12 +19,18 @@
 
 ### About
 
-I design and ship modern web applications with a strong focus on performance, reliability, and clean architecture.  
-My work bridges product engineering and DevOps, from polished frontend experiences to resilient backend platforms and delivery pipelines.
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-7F5AF0?style=for-the-badge" alt="Product engineering focus" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Native%20DevOps-00C2FF?style=for-the-badge" alt="Cloud native DevOps focus" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Architecture-2CB67D?style=for-the-badge" alt="Scalable architecture focus" />
+</div>
 
-- Building multi-tenant, multi-service systems end-to-end
-- Turning complex business problems into simple developer experiences
-- Improving deployment speed, observability, and runtime stability
+I build modern, high-performance applications that balance **clean user experience** with **production-grade reliability**.  
+From frontend interfaces to backend services and delivery pipelines, I focus on systems that scale cleanly and ship fast.
+
+```txt
+Multi-tenant systems  ->  Developer-friendly architecture  ->  Faster and safer releases
+```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-b0b79a0e-d770-47e6-bdbb-8b7d8d7d1c1f.gif" width="900" alt="Animated divider" />
@@ -42,6 +44,7 @@ My work bridges product engineering and DevOps, from polished frontend experienc
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -52,6 +55,7 @@ My work bridges product engineering and DevOps, from polished frontend experienc
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 #### DevOps
 
@@ -59,7 +63,6 @@ My work bridges product engineering and DevOps, from polished frontend experienc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![HashiCorp%20Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
@@ -74,15 +77,8 @@ My work bridges product engineering and DevOps, from polished frontend experienc
 ### GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonastewabe&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yonastewabe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yonastewabe&bg_color=0d1117&color=7f5af0&line=00c2ff&point=2cb67d&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonastewabe&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://streak-stats.demolab.com?user=yonastewabe&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
 </div>
 
 <p align="center">
@@ -103,8 +99,4 @@ Open to freelance work, product collaborations, and engineering conversations.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,50:7F5AF0,100:2CB67D" alt="Footer banner" />
 </div>
