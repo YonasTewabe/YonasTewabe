@@ -69,11 +69,11 @@
 
 #### DevOps
 
-![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
-![HashiCorp%20Vault](https://img.shields.io/badge/HashiCorp%20Vault-111827?style=for-the-badge&logo=vault&logoColor=7B42BC)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=DC382D)
+![HashiCorp%20Vault](https://img.shields.io/badge/HashiCorp%20Vault-E5E7EB?style=for-the-badge&logo=vault&logoColor=000000)
 ![Ansible](https://img.shields.io/badge/Ansible-111827?style=for-the-badge&logo=ansible&logoColor=EE0000)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 
