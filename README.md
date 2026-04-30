@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/yonastewabe">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/YonasTewabe">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:yonastewabe21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -31,16 +31,23 @@
 </div>
 
 <div align="center">
-
-> I craft high-performance digital products where **modern UX**, **robust backend engineering**, and **production-ready DevOps** work as one system.  
-> From idea to deployment, I focus on software that is elegant to use, easy to maintain, and built to scale.
-
+  <h4>Building products that are elegant, scalable, and production-ready.</h4>
+  <p>
+    I combine fullstack development and DevOps to deliver fast, reliable systems from concept to deployment.
+    My focus is clear architecture, smooth developer experience, and resilient cloud operations.
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer--First_Workflows-F59E0B?style=flat-square" alt="Developer-first workflows" />
-  <img src="https://img.shields.io/badge/Reliable_CI%2FCD_Pipelines-22C55E?style=flat-square" alt="Reliable CI/CD pipelines" />
-  <img src="https://img.shields.io/badge/Open_to_Collaboration-6366F1?style=flat-square" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/WHAT%20I%20PRIORITIZE-7F5AF0?style=for-the-badge" alt="What I prioritize" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Open%20to%20collaborating%20on%20interesting%20projects-111827?style=for-the-badge&labelColor=7F5AF0" alt="Open to collaborating on interesting projects" />
+  <br />
+  <img src="https://img.shields.io/badge/%F0%9F%92%A1%20Developer-first%20workflows%20that%20increase%20delivery%20speed-111827?style=for-the-badge&labelColor=00C2FF" alt="Developer-first workflows that increase delivery speed" />
+  <br />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Reliable%20DevOps%20pipelines%20for%20safer%20production%20releases-111827?style=for-the-badge&labelColor=2CB67D" alt="Reliable DevOps pipelines for safer production releases" />
 </div>
 
 <p align="center">
@@ -73,6 +80,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HashiCorp%20Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -104,13 +112,13 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/yonastewabe">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/YonasTewabe">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:yonastewabe21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
