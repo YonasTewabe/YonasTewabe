@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Scalable%20Architecture-2CB67D?style=for-the-badge" alt="Scalable architecture focus" />
 </div>
 
-<div align="center">
+<div>
   <h4>Building products that are elegant, scalable, and production-ready.</h4>
   <p>
     I combine fullstack development and DevOps to deliver fast, reliable systems from concept to deployment.
@@ -38,14 +38,10 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/WHAT%20I%20PRIORITIZE-7F5AF0?style=for-the-badge" alt="What I prioritize" />
-</div>
-
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Open%20to%20collaborating%20on%20interesting%20projects-111827?style=for-the-badge&labelColor=7F5AF0" alt="Open to collaborating on interesting projects" />
   <br />
-  <img src="https://img.shields.io/badge/%F0%9F%92%A1%20Developer-first%20workflows%20that%20increase%20delivery%20speed-111827?style=for-the-badge&labelColor=00C2FF" alt="Developer-first workflows that increase delivery speed" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Developer-first%20workflows%20that%20increase%20delivery%20speed-111827?style=for-the-badge&labelColor=00C2FF" alt="Developer-first workflows that increase delivery speed" />
   <br />
   <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Reliable%20DevOps%20pipelines%20for%20safer%20production%20releases-111827?style=for-the-badge&labelColor=2CB67D" alt="Reliable DevOps pipelines for safer production releases" />
 </div>
@@ -123,9 +119,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yonastewabe&label=Profile+Views&style=flat-square&color=6A5ACD" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=yonastewabe&label=Profile+Views&style=flat-square&color=6A5ACD" alt="Profile views" />
 </div>
