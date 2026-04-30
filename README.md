@@ -46,7 +46,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-b0b79a0e-d770-47e6-bdbb-8b7d8d7d1c1f.gif" width="900" alt="Animated divider" />
 </p>
 
-### Core Stack
+### Tech Stack
 
 <div align="center">
 
