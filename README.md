@@ -7,10 +7,15 @@
 </div>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonastewabe)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YonasTewabe)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastewabe21@gmail.com)
-
+  <a href="https://linkedin.com/in/yonastewabe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/YonasTewabe">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:yonastewabe21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <p align="center">
@@ -28,9 +33,8 @@
 I build modern, high-performance applications that balance **clean user experience** with **production-grade reliability**.  
 From frontend interfaces to backend services and delivery pipelines, I focus on systems that scale cleanly and ship fast.
 
-```txt
-Multi-tenant systems  ->  Developer-friendly architecture  ->  Faster and safer releases
-```
+💡 Developer-first workflows that increase delivery speed
+🌱 Reliable DevOps pipelines for safer production releases
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-b0b79a0e-d770-47e6-bdbb-8b7d8d7d1c1f.gif" width="900" alt="Animated divider" />
