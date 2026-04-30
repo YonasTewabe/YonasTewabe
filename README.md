@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Reliable%20DevOps%20pipelines%20for%20safer%20production%20releases-111827?style=for-the-badge&labelColor=2CB67D" alt="Reliable DevOps pipelines for safer production releases" />
 
   <p>
-  <strong>Open to freelance, collaboration, and product builds</strong> - have an idea or platform to launch? Let's connect and ship something excellent.
+  <strong>Have an idea or platform to launch? Let's connect and ship something excellent.</strong>
 </p>
 </div>
 
