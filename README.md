@@ -101,7 +101,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yonastewabe&label=Profile+Views&style=flat-square&color=6A5ACD" alt="Profile views" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
